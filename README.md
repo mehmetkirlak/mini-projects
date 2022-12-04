@@ -4,8 +4,6 @@ This repository has my small scaled projects.
 
 <hr>
 
--- 
-
 ### List of projects:
 
 - FlashCards:
