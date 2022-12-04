@@ -1,0 +1,6 @@
+klavye,
+harf girdileri alıp imgece basar,
+haporlur,
+ses cıkarır,
+cay,
+cayı ıceriz,
