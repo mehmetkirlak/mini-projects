@@ -6,6 +6,10 @@ This repository has my small scaled projects.
 
 ### List of projects:
 
+- Cinema Room REST Service
+
+&emsp; This project simulates managing a small movie theatre. It only has the Back-end Service side of development. The Service have "/purchase", "/return", "/stats" endpoints. Each endpoint carries some functions by their role. Client be able to purchase seats from the cinema room or refund the seat that it already purchased by its. Administrator can view stats of cinema room that has income by the purchased seats.
+
 - FlashCards:
 
 &emsp; Flashcard (also known as an index card) is a card bearing information on both sides, which is intended to be used as an aid in memorization. Each flashcard bears a question on one side and an answer on the other. Flashcards are often used to memorize vocabulary, historical dates, formulas or any subject matter that can be learned via a question-and-answer.
